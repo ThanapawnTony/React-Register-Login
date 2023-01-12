@@ -185,7 +185,7 @@ const Register = () => {
             Already registered?<br/>
             <span className='line'>
                 {/*router*/}
-                <a href="#">Sign In</a>
+                <a href="./Login.js">Sign In</a>
             </span>
         </p>
     </section>
